@@ -1,4 +1,5 @@
 # DYNAMIC APPLICATION OF FUZZY INFERENCE USING THE SUGENO METHOD
+![image](https://github.com/agung-madani/dynamic-app-fuzzyinference-sugeno-/assets/121701309/a03b0127-7c7a-45d7-8b59-0974f13130d9)
 
 This repository contains a dynamic application of fuzzy inference using the Sugeno method. The user can input multiple variables and set their respective ranges, and the application will use fuzzy logic to infer an output based on a set of rules defined by the user.<br>
 The application is implemented in Python and utilizes the Tkinter module for its graphical user interface. The user can input variables and set their ranges using sliders, and the output is displayed as a label. The application also allows the user to modify the rules used for inference.<br>
